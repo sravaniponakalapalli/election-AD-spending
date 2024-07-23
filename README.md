@@ -4,5 +4,5 @@ During the 2024 Indian elections, Facebook and Instagram were inundated with pol
 ## Data
 The data used in this analysis can be found in the `election Ad spending data.xlsx` file in this repository.
 ##
-![Alt text](relative/path/to/image.png)
+![Alt text]([relative/path/to/image.png](https://github.com/sravaniponakalapalli/images/blob/main/Ad1.png?raw=true))
 
